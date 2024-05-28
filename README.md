@@ -6,5 +6,6 @@ a two player game where the right side player uses the "up" and "down" keys to o
 the left side player uses the "w" (upward) and "s" (downward) to move.
 
 scores are updated when either side of the player misses to hit the ball back to the other player
+idk maybe the game goes
 
 the turtle module helps in laying out the base of the video game
