@@ -11,4 +11,4 @@ that is when the winner is decided.
 
 it is a fun and interactive game to play with 2 players in a computer
 
-the turtle module helps in laying out the base of the video game
+the turtle module helps in laying out the base of the video game which
